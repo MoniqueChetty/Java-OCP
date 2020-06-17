@@ -1,8 +1,13 @@
 # Java-Beginner
 Java OCP1  Practice 
 
+
 Chapter 2:  What Is a Java Program?
+
+
 Chapter 3:  Creating a Java Main Class
+
+
 Chapter 4:  Data in a Cart
 Chapter 5:  Managing Multiple Items
 Chapter 6:  Describing Objects and Classes
